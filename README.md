@@ -1,3 +1,8 @@
+Repository moved into Quarkiverse:
+
+https://github.com/quarkiverse/quarkus-grpc-zero
+
+
 # Quarkus – gRPC Zero Codegen (Experimental)
 
 > 🚧 **Experimental**
